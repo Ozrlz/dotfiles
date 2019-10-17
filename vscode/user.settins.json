@@ -1,0 +1,19 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.pyc": true,
+        "**/*__pycache__": true,
+        "**/*terraform.tfstate*": true,
+        "**/.terraform": true
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true
+}
